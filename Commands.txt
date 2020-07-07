@@ -1,0 +1,12 @@
+
+npm init
+npm i jquery
+npm i
+
+npm i webpack webpack-cli --save-dev
+
+npm run build
+
+
+
+
