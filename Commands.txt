@@ -7,6 +7,6 @@ npm i webpack webpack-cli --save-dev
 
 npm run build
 
-
+npm i style-loader css-loader --save-dev
 
 

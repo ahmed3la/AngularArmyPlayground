@@ -1,2 +1,4 @@
-import helloWorld from './hello-world'
-helloWorld();
+import HelloWorldButton from './components/hello-world-button'
+const helowWorldButton = new HelloWorldButton();
+
+helowWorldButton.render();
